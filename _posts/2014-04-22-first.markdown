@@ -1,0 +1,7 @@
+---
+published: true
+title: First!
+layout: post
+---
+This is my first post from [tinypress](https://tinypress.co/) with a basic jekyll install.
+-E
